@@ -3,6 +3,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=200&section=header&text=Khatab%20Alaidaroos&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%" />
 </div>
 
+<!-- Welcome Section -->
+<div align="center">
+  <h1>👋 أهلاً وسهلاً بك! | Welcome!</h1>
+  <p><i>سعيد بزيارتك لملفي الشخصي — تصفح أدناه للتعرف على خبراتي ومشاريعي.</i></p>
+  <p><i>Glad you stopped by — scroll down to explore my work and skills.</i></p>
+</div>
+
 <!-- Typing SVG & Titles -->
 <div align="center">
   <h3>Software Engineer & Full-Stack Web & Mobile Developer 💻</h3>
@@ -24,6 +31,75 @@
   <a href="https://github.com/khatabalaidarous">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+</div>
+
+<!-- CV Download Button -->
+<div align="center">
+  <br/>
+  <a href="https://github.com/khatabalaidarous/khatabalaidarous/raw/main/Khatab_Alaidaroos_CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Download_CV-3B82F6?style=for-the-badge&logoColor=white" alt="Download CV" height="40"/>
+  </a>
+</div>
+
+<br/>
+
+<!-- Featured Projects Section -->
+<h2 align="center">🚀 Featured Projects | المشاريع المميزة</h2>
+<div align="center">
+
+  <a href="https://github.com/khatabalaidarous/REPO-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khatabalaidarous&repo=REPO-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" width="48%" />
+  </a>
+  <a href="https://github.com/khatabalaidarous/REPO-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khatabalaidarous&repo=REPO-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" width="48%" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://github.com/khatabalaidarous/REPO-3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khatabalaidarous&repo=REPO-3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" width="48%" />
+  </a>
+  <a href="https://github.com/khatabalaidarous/REPO-4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khatabalaidarous&repo=REPO-4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" width="48%" />
+  </a>
+
+</div>
+
+<!-- Certifications & Achievements Section -->
+<h2 align="center">🏆 Certifications & Achievements | الشهادات والإنجازات</h2>
+<div align="center">
+
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/🎓_Full--Stack_Web_Development-3B82F6?style=for-the-badge" /><br/>
+        <sub><b>Meta / Coursera</b> — 2024</sub>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/📱_Flutter_Development-02569B?style=for-the-badge" /><br/>
+        <sub><b>Google Developers</b> — 2024</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/☁️_AWS_Cloud_Practitioner-FF9900?style=for-the-badge" /><br/>
+        <sub><b>Amazon Web Services</b> — 2023</sub>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/🐍_Python_for_Data_Science-3776AB?style=for-the-badge" /><br/>
+        <sub><b>IBM / Coursera</b> — 2023</sub>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+<br/>
+
+<!-- Recent Activity Section -->
+<h2 align="center">📈 Recent Activity | آخر التحديثات</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khatabalaidarous&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" width="95%" />
 </div>
 
 <br/>
@@ -90,7 +166,47 @@
 
 <br/>
 
+<!-- Contact Section -->
+<h2 align="center">📬 Contact Me | تواصل معي</h2>
+<div align="center">
+  <p>💬 <b>هل لديك مشروع أو فرصة عمل؟ لا تتردد في التواصل معي!</b></p>
+  <p><i>Have a project or job opportunity? Feel free to reach out!</i></p>
+
+  <table>
+    <tr>
+      <td align="center">
+        <a href="mailto:khatabalaidarous@gmail.com">
+          <img src="https://img.shields.io/badge/Email-khatabalaidarous@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><br/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+          <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><br/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/khatabalaidarous">
+          <img src="https://img.shields.io/badge/GitHub-Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white" /><br/>
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <a href="https://github.com/khatabalaidarous?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/⭐_Explore_All_My_Repositories-3B82F6?style=for-the-badge" height="40"/>
+  </a>
+</div>
+
+<br/>
+
 <!-- Footer (Dark) -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=100&section=footer" width="100%" />
+  <p><i>⭐ Thanks for visiting! | شكراً لزيارتك!</i></p>
 </div>
