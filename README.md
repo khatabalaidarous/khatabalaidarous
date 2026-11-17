@@ -1,24 +1,21 @@
-<!-- Header Banner (Dark) -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=200&section=header&text=Khatab%20Alaidaroos&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%" />
 </div>
 
-<!-- Profile Picture (Updated with your image) -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/khatabalaidarous/khatabalaidarous/main/1794776576314.jpg" 
+  <img src="https://raw.githubusercontent.com/khatabalaidarous/khatabalaidarous/main/1794776576314.jpg?raw=true" 
        alt="Khatab Alaidaroos" 
-       width="160" 
-       style="border-radius: 50%; border: 4px solid #3B82F6; margin-top: -60px; box-shadow: 0 0 25px rgba(59,130,246,0.6);" />
+       width="100%" 
+       height="180" 
+       style="border-radius: 15px; object-fit: cover; object-position: center top; box-shadow: 0 0 20px rgba(59,130,246,0.4);" />
 </div>
 
-<!-- Welcome Section -->
 <div align="center">
   <h1>👋 أهلاً وسهلاً بك! | Welcome!</h1>
   <p><i>سعيد بزيارتك لملفي الشخصي — تصفح أدناه للتعرف على خبراتي ومشاريعي.</i></p>
   <p><i>Glad you stopped by — scroll down to explore my work and skills.</i></p>
 </div>
 
-<!-- Typing SVG & Titles -->
 <div align="center">
   <h3>Software Engineer & Full-Stack Web & Mobile Developer 💻</h3>
   <p><i>Building scalable web applications, mobile apps & writing clean, efficient code.</i></p>
@@ -28,7 +25,6 @@
   </a>
 </div>
 
-<!-- Connect Badges -->
 <div align="center">
   <a href="mailto:khatabalaidarous@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -41,7 +37,6 @@
   </a>
 </div>
 
-<!-- CV Download Button -->
 <div align="center">
   <br/>
   <a href="https://github.com/khatabalaidarous/khatabalaidarous/raw/main/Khatab_Alaidaroos_CV.pdf" target="_blank">
@@ -51,32 +46,25 @@
 
 <br/>
 
-<!-- Featured Projects Section -->
 <h2 align="center">🚀 Featured Projects | المشاريع المميزة</h2>
 <div align="center">
-
   <a href="https://github.com/khatabalaidarous/REPO-1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=khatabalaidarous&repo=REPO-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" width="48%" />
   </a>
   <a href="https://github.com/khatabalaidarous/REPO-2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=khatabalaidarous&repo=REPO-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" width="48%" />
   </a>
-
   <br/><br/>
-
   <a href="https://github.com/khatabalaidarous/REPO-3">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=khatabalaidarous&repo=REPO-3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" width="48%" />
   </a>
   <a href="https://github.com/khatabalaidarous/REPO-4">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=khatabalaidarous&repo=REPO-4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" width="48%" />
   </a>
-
 </div>
 
-<!-- Certifications & Achievements Section -->
 <h2 align="center">🏆 Certifications & Achievements | الشهادات والإنجازات</h2>
 <div align="center">
-
   <table>
     <tr>
       <td align="center" width="50%">
@@ -99,12 +87,10 @@
       </td>
     </tr>
   </table>
-
 </div>
 
 <br/>
 
-<!-- Recent Activity Section -->
 <h2 align="center">📈 Recent Activity | آخر التحديثات</h2>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khatabalaidarous&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" width="95%" />
@@ -112,7 +98,6 @@
 
 <br/>
 
-<!-- About Me Section -->
 <h2 align="center">👨‍💻 About Me</h2>
 <div align="center">
   <p>
@@ -123,10 +108,8 @@
 
 <br/>
 
-<!-- Tech Stack Section -->
 <h2 align="center">🛠️ Languages, Frameworks & Tech Stack</h2>
 <div align="center">
-  
   <h4>💻 Programming Languages</h4>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -155,12 +138,10 @@
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-
 </div>
 
 <br/>
 
-<!-- GitHub Stats Section -->
 <h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khatabalaidarous&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" width="48%" />
@@ -174,12 +155,10 @@
 
 <br/>
 
-<!-- Contact Section -->
 <h2 align="center">📬 Contact Me | تواصل معي</h2>
 <div align="center">
   <p>💬 <b>هل لديك مشروع أو فرصة عمل؟ لا تتردد في التواصل معي!</b></p>
   <p><i>Have a project or job opportunity? Feel free to reach out!</i></p>
-
   <table>
     <tr>
       <td align="center">
@@ -203,9 +182,7 @@
       </td>
     </tr>
   </table>
-
   <br/>
-
   <a href="https://github.com/khatabalaidarous?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/⭐_Explore_All_My_Repositories-3B82F6?style=for-the-badge" height="40"/>
   </a>
@@ -213,7 +190,6 @@
 
 <br/>
 
-<!-- Footer (Dark) -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=100&section=footer" width="100%" />
   <p><i>⭐ Thanks for visiting! | شكراً لزيارتك!</i></p>
