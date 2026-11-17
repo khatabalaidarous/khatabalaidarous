@@ -3,6 +3,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=200&section=header&text=Khatab%20Alaidaroos&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%" />
 </div>
 
+<!-- Profile Picture (Updated with your image) -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/khatabalaidarous/khatabalaidarous/main/1794776576314.jpg" 
+       alt="Khatab Alaidaroos" 
+       width="160" 
+       style="border-radius: 50%; border: 4px solid #3B82F6; margin-top: -60px; box-shadow: 0 0 25px rgba(59,130,246,0.6);" />
+</div>
+
 <!-- Welcome Section -->
 <div align="center">
   <h1>👋 أهلاً وسهلاً بك! | Welcome!</h1>
