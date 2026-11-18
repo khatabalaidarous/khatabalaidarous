@@ -2,6 +2,20 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=200&section=header&text=Khatab%20Alaidaroos&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%" />
 </div>
 
+<!-- ✅ النبذة التعريفية في البداية -->
+<div align="center">
+  <h1>👋 مرحباً، أنا خطاب عبدالوهاب العيدروس</h1>
+  <p><b>Software Engineer | Full-Stack Web & Mobile Developer</b></p>
+  <p>
+    🎓 بكالوريوس في هندسة البرمجيات — <b>الجامعة الماليزية الدولية</b><br/>
+    <i>Bachelor's Degree in Software Engineering — International Malaysian University</i>
+  </p>
+  <p>
+    متخصص في بناء تطبيقات ويب وموبايل قابلة للتوسع، وأكتب كوداً نظيفاً وفعالاً.<br/>
+    <i>Building scalable web applications, mobile apps & writing clean, efficient code.</i>
+  </p>
+</div>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/khatabalaidarous/khatabalaidarous/main/1794776576314.jpg?raw=true" 
        alt="Khatab Alaidaroos" 
@@ -11,15 +25,6 @@
 </div>
 
 <div align="center">
-  <h1>👋 أهلاً وسهلاً بك! | Welcome!</h1>
-  <p><i>سعيد بزيارتك لملفي الشخصي — تصفح أدناه للتعرف على خبراتي ومشاريعي.</i></p>
-  <p><i>Glad you stopped by — scroll down to explore my work and skills.</i></p>
-</div>
-
-<div align="center">
-  <h3>Software Engineer & Full-Stack Web & Mobile Developer 💻</h3>
-  <p><i>Building scalable web applications, mobile apps & writing clean, efficient code.</i></p>
-  
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Web+Developer;Flutter+%26+Mobile+App+Developer;Always+Learning+New+Tech" alt="Typing SVG" />
   </a>
